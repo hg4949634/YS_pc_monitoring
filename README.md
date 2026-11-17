@@ -1,2 +1,4 @@
-# YS_pc_monitoring
-프로그래밍실습 프로젝트
+```powershell
+gcc -std=c11 -Wall -Wextra pc_monitor.c -o pc_monitor.exe
+.\pc_monitor.exe
+```
